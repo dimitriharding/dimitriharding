@@ -5,7 +5,7 @@
 
 ### 💫  About Me
 
-- 👨🏽‍💻  I'm a Tester by Profession, but I marker by Passion
+- 👨🏽‍💻  I'm a Tester by Profession, but I maker by Passion
 - 🏢  Lead QA Consultant at  **QualityWorks** in 🇯🇲.
 - ✨  I use daily: **Javascript**, **Typescript**, **React**, **Node**.
 - 🎭  Hobbies: **Photography**, **Creating**
