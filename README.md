@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-👨🏽‍💻 I'm a Tester by Profession, but I maker by Passion<br>🏢 Solutions and TestArchitect at QualityWorks in 🇯🇲.<br>✨ I use daily: Javascript, Typescript, React, and Node.<br>🎭 Hobbies: Photography, Creating<br>📫 How to reach me: @irtimid_harding
+👨🏽‍💻 I'm a Tester by Profession, but I'm a maker by Passion<br>🏢 Solutions and TestArchitect at QualityWorks in 🇯🇲.<br>✨ I use daily: Javascript, Typescript, React, and Node.<br>🎭 Hobbies: Photography, Creating<br>📫 How to reach me: @irtimid_harding
 
 
 ## 🌐 Socials:
